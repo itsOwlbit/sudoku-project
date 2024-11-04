@@ -1,6 +1,6 @@
 # Sudoku Project
 
-description goes here...
+Exploring web development by developing a various Sudoku web applications.
 
 ## Table of Contents
 
