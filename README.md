@@ -2,7 +2,7 @@
 
 Purpose: To exploring web development by creating a diverse range of engaging Sudoku web applications, enhancing both technical skills and user experience.
 
-## Technologies Used
+## Technologies To Use
 
 - HTML/CSS/JavaScript
 - Source Control: Git/GitHub
