@@ -1,18 +1,14 @@
 # Sudoku Project
 
-Exploring web development by developing a various Sudoku web applications.
-
-## Table of Contents
-
-1. [Sudoku - Basic](sudoku-basic/)
+Purpose: To exploring web development by creating a diverse range of engaging Sudoku web applications, enhancing both technical skills and user experience.
 
 ## Technologies Used
 
-- HTML
-- CSS
-- JavaScript
-- Git/GitHub
-- Jira
+- HTML/CSS/JavaScript
+- Source Control: Git/GitHub
+- Project Management: Jira
+- CI/CD: GitHub Actions
+- Testing: Jest or Mocha?
 
 ## Project Structure
 
@@ -23,7 +19,7 @@ Exploring web development by developing a various Sudoku web applications.
 │   └── styles.css
 ├── js/
 │   └── main.js
-├── sudoku-basic
+├── sudoku-classic-v1
 │   └── index.html
 ├── assets
 │   ├── fonts
@@ -34,3 +30,7 @@ Exploring web development by developing a various Sudoku web applications.
 │   └── README.md
 └── README.md
 ```
+
+## Table of Contents
+
+1. [Sudoku - Basic](sudoku-classic-v1/)
