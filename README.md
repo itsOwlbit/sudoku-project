@@ -33,4 +33,4 @@ Purpose: To exploring web development by creating a diverse range of engaging Su
 
 ## Table of Contents
 
-1. [Sudoku - Basic](sudoku-classic-v1/)
+1. [Sudoku Classic v1](sudoku-classic-v1/)
