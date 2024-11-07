@@ -2,6 +2,14 @@
 
 **Purpose**: To create a Sudoku classic game with basic functionality and minimal technologies.
 
+## About Sudoku
+
+- The puzzle is a 9 x 9 grid with a total of 81 cells.
+- There are 9 rows, 9 columns, and 9 blocks (3 x 3 grids).
+- Rows are counted top to bottom from 1 to 9. Columns are counted left to right from 1 to 9. Blocks are counted left to right then top down from 1 to 9.
+- When a puzzle is loaded with values, those starting values are called givens. The cells that are empty are called guesses.
+- The puzzle is complete when the digits 1 to 9 are placed in all cells where no row, column, or block has duplicate digits.
+
 ## Conceptual Flow
 
 1. **Start (Web Page Loads)**
@@ -26,8 +34,6 @@
 - HTML/CSS/JavaScript
 - Source Control: Git/GitHub
 - Project Management: Jira
-- CI/CD: GitHub Actions
-- Testing: Jest or Mocha?
 
 ## Project Structure
 
